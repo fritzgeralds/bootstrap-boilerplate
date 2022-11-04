@@ -21,7 +21,7 @@ To use this boilerplate for your own project, choose one of the following option
   cd bootstrap-boilerplate
   ```
 
-* Create a new GitHub repository using a [Template](https://github.com/fritzgeralds/bootstrap-boilerplate-template) based on the main branch of this
+* Create a new GitHub repository using a [Template](https://github.com/new) based on the main branch of this
   repository.
 
 ## Contributing
@@ -33,4 +33,4 @@ Anyone is welcome to contribute, if you'd like to help out you can do one of the
 
 ## License
 
-The code is available under the [MIT license](LICENSE.txt).
+The code is available under the [MIT license](LICENSE.md).
