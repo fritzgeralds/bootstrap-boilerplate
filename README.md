@@ -1,4 +1,4 @@
-# [Bootstrap Boilerplate](https://html5boilerplate.com/)
+# Bootstrap Boilerplate
 
 ![Top Language](https://img.shields.io/github/languages/top/fritzgeralds/bootstrap-boilerplate)
 [![Issues](https://img.shields.io/github/issues/fritzgeralds/bootstrap-boilerplate)](https://github.com/fritzgeralds/bootstrap-boilerplate/issues)
